@@ -37,7 +37,7 @@ const Technologies = () =>  (
           <ListTitle>WordPress Developer</ListTitle>
           <ListParagraph>
             Experience with <br />
-            wide range of Page Builders & Themes
+            wide range of Page Builders, Plugins and Themes
           </ListParagraph>
         </ListContainer>
       </ListItem>
