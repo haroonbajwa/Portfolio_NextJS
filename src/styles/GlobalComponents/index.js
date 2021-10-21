@@ -279,3 +279,18 @@ export const LinkIconImg = styled.div`
     height: ${({ large }) => large ? '32px' : '16px'};
   }
 `
+
+export const GoToTopButton = styled.button`
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  padding: 10px 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 50px;
+  font-weight: 700;
+  font-size: 26px;
+  color: rgba(255, 255, 255, 0.5);
+  background: linear-gradient(270deg,#13ADC7 0%,#945DD6 100%);
+
+`
